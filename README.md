@@ -1,0 +1,2 @@
+# Snaplet Riak 2
+
