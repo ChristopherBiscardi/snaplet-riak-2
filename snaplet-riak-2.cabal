@@ -1,0 +1,20 @@
+name:                snaplet-riak-2
+version:             0.1.0.0
+synopsis:            Snaplet for Riak since snaplet-riak is dead
+-- description:         
+homepage:            TODO: change to github
+license:             MIT
+license-file:        LICENSE
+author:              Christopher Biscardi
+maintainer:          biscarch@sketcht.com
+-- copyright:           
+category:            Database, Snap
+build-type:          Simple
+cabal-version:       >=1.8
+
+library
+  hs-source-dirs: src
+
+  -- exposed-modules:     
+  -- other-modules:       
+  build-depends:       base ==4.5.*
